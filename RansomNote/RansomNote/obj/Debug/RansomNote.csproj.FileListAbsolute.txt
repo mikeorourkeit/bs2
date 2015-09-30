@@ -1,0 +1,6 @@
+H:\RAD301\RansomNote\RansomNote\bin\Debug\RansomNote.exe.config
+H:\RAD301\RansomNote\RansomNote\bin\Debug\RansomNote.exe
+H:\RAD301\RansomNote\RansomNote\bin\Debug\RansomNote.pdb
+H:\RAD301\RansomNote\RansomNote\obj\Debug\RansomNote.csprojResolveAssemblyReference.cache
+H:\RAD301\RansomNote\RansomNote\obj\Debug\RansomNote.exe
+H:\RAD301\RansomNote\RansomNote\obj\Debug\RansomNote.pdb

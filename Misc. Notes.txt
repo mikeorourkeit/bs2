@@ -1,0 +1,2 @@
+***Get VSWebEssentials plugin for Visual Studio - In vs _ Tools > Extensions & Updates
+***Get PHPStorm for PHP

@@ -1,0 +1,23 @@
+pwd - The folder that you are in
+ls - list of items in current folder
+ls -a - list of items in current folder inc. hidden files
+git - envokes git (returns command info unless git is not installed, ones in [] are optional)
+git --version - tells you the version of git installed
+git clone (and paste in clone address)
+git --pull - pulls selected version to repository
+git --push - pushes new version to repository
+
+git init - creates an empty repository for the folder you are in
+git status - shows the status of the current repo (red if git is unaware of them / green if it is/nothing to commit if all is on repo)
+git add . - adds to the working directory
+git commit -m 'Initial commit'-- 'any message will do' commits the files to the repository
+
+
+cd helloworld/(foldername) - goes into that folder
+cat README.md(filename) - opens the README file inside bash 
+notepad README.md - opens the README file in notepad
+
+when creating a new project create a README file to describe it's function/content
+
+*** shortcut for paste into bash is SHIFT+INSERT ***
+
